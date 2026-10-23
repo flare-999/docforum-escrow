@@ -3,7 +3,6 @@ dist/
 build/
 target/
 test_snapshots/
-temp_auto_push.bat
 *.tgz
 .env
 .env.local
